@@ -1,0 +1,8 @@
+ffmpeg-python 
+openai-whisper 
+pydub
+transformers 
+datasets
+torchaudio
+punctuators
+stable-ts
