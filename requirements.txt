@@ -6,3 +6,4 @@ datasets
 torchaudio
 punctuators
 stable-ts
+pytube
