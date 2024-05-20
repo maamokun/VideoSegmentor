@@ -13,7 +13,7 @@ input_dir = 'input'
 output_dir = 'oaiw_processed'
 
 # Load Whisper model
-model = whisper.load_model("large-v3")
+model = whisper.load_model("medium")
 
 def convert_mp4_to_wav(mp4_path, wav_path):
     audio = ffmpeg.input(mp4_path)

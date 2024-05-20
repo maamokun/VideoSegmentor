@@ -1,3 +1,7 @@
 /input/*
 /processed/*
 /oaiw_processed/*
+/consolidated_data/*
+/hf_repo/*
+/hf_upload.py
+/vids.txt

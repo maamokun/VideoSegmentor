@@ -7,3 +7,4 @@ torchaudio
 punctuators
 stable-ts
 pytube
+huggingface_hub
